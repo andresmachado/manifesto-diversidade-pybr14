@@ -15,6 +15,7 @@ Queremos continuar e avançar esse trabalho. Em um momento peculiar na história
 Assinam este manifesto:
 
 - André "decko" de Brito <@decko>
+- André Machado <@andresmachado_>
 - Eduardo "Stalinho" Oliveira de Carvalho
 - Bernardo Botelho Fontes
 - Isac Moura Gomes
